@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "id": "incrementTweetNumberAction",
+    "name": "incrementTweetNumberAction",
+    "description": "",
+    "tags": [
+      "event"
+    ],
+    "readOnly": true
+  },
+  "actionExecutor": "incrementTweetNumber",
+  "parameters": []
+}
