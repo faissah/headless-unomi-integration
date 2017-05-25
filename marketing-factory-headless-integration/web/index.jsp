@@ -21,7 +21,9 @@
   First name:<br>
   <input type="text" name="firstname" id="firstname"><br>
   Last name:<br>
-  <input type="text" name="lastname" id="lastname">
+  <input type="text" name="lastname" id="lastname"><br>
+  Email:<br>
+  <input type="text" name="email" id="email">
 </form>
 <button id="loginbutton2" value="Login"/>
 END

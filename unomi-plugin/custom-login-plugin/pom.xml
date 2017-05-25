@@ -21,11 +21,11 @@
     <parent>
         <artifactId>samples</artifactId>
         <groupId>org.apache.unomi</groupId>
-        <version>1.2.0-incubating-SNAPSHOT</version>
+        <version>1.1.0-incubating</version>
     </parent>
 
-    <artifactId>tweet-button-plugin</artifactId>
-    <name>Apache Unomi :: Samples :: Tweet Button plugin</name>
+    <artifactId>custom-login-plugin</artifactId>
+    <name>Apache Unomi :: Samples :: Custom Login plugin</name>
     <packaging>bundle</packaging>
     <description>This is a simple Apache Unomi plugin.</description>
 
@@ -33,7 +33,7 @@
         <dependency>
             <groupId>org.apache.unomi</groupId>
             <artifactId>unomi-api</artifactId>
-            <version>1.2.0-incubating-SNAPSHOT</version>
+            <version>1.1.0-incubating</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
